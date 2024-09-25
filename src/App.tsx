@@ -1,5 +1,9 @@
-import React from "react";
+import { Modal } from './package';
 
 export default function App() {
-  return <div>App</div>;
+  return (
+    <div>
+      <Modal />
+    </div>
+  );
 }

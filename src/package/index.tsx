@@ -1,1 +1,5 @@
-export {}; // npm 업로드에 대한 것 추가
+import Modal from "./modal";
+
+
+export { Modal };
+
