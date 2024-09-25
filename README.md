@@ -10,8 +10,6 @@ ReactJs, Vite , Typescript 환경의 NPM 패키지를 쉽게 배포할 수 있�
 
 [![GitHub](https://img.shields.io/github/license/beforesemicolon/flatlist-react)](https://github.com/deep-hwan/npm-vite-ts-package-template/blob/main/LICENSE)
 
-# [package-name](https://github.com/deep-hwan/npm-react-typescript-package-template)
-
 </div>
 
 ## 배포 후 Install 셋팅
