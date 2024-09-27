@@ -1,5 +1,6 @@
 /src
 /node_modules
+/.vscode
 /.git
 /vite.config.ts
 /tsconfig.json
